@@ -49,3 +49,8 @@ body {
   margin-top: 0px;
   padding-top: 0px;
 }
+
+button:hover {
+  background-color: rgb(127, 208, 255);
+  opacity: 0.5;
+}
